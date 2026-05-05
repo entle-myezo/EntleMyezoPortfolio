@@ -25,6 +25,7 @@
 
 **Work Readiness Programme (Call Centre Operations)** – JobsFund11  
 *Certificate of Completion – February 2026*
+https://github.com/entle-myezo/EntleMyezoPortfolio/blob/main/0409130860086_Entle%20Myezo%20(1).pdf
 
 **Technical competencies gained:**
 - Customer relationship management (CRM) systems and ticketing workflows
@@ -46,7 +47,6 @@ This programme strengthened my ability to communicate technical information clea
 - Basic customer service principles
 - Personal development and goal setting
 
-**Relevance:**  
 This certificate demonstrates my ability to work well in a team, follow workplace etiquette, and communicate clearly – essential soft skills for any professional environment, including IT.
 
 
