@@ -4,13 +4,13 @@
 
 ---
 
-## 📌 About Me
+## About Me
 
 I am a third-year ICT student at CPUT with a passion for building practical software solutions. I enjoy front-end design.
 
 ---
 
-## 📁 Projects Included
+##  My Projects
 
 Here are some of the projects I have built during my studies and personal learning.
 
@@ -29,7 +29,7 @@ https://youtu.be/49Irf23d0dU
 
 ## 📄 My CV (Markdown)
 
-👉 [View my CV](./cv.md) – coded entirely in Markdown.
+[View my CV](./cv.md) – coded entirely in Markdown.
 
 ---
 
@@ -39,11 +39,11 @@ I recorded a mock interview to practice answering common IT graduate questions.
 Click the links below to watch:
 
 [![Mock Interview Video 1](https://youtu.be/SiazcSKyd-k)
-[Mock Interview Video 2] (https://youtube.com/shorts/2kUNmJFCgGY?feature=share)
+[Mock Interview Video 2](https://youtube.com/shorts/xlAml0gyPPc?feature=share)
 
 ---
 
-## 📝 STAR Reflections
+## STAR Reflections
 
 Reflections are written using the **Situation, Task, Action, Result** framework.
 
@@ -53,7 +53,7 @@ Reflections are written using the **Situation, Task, Action, Result** framework.
 
 ---
 
-## 🌐 Live Portfolio
+##  Live Portfolio
 
 This portfolio is published using **GitHub Pages**.  
 🔗 [https://entle-myezo.github.io/EntleMyezoPortfolio/](https://entle-myezo.github.io/EntleMyezoPortfolio/)
