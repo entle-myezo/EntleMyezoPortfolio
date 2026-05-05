@@ -56,7 +56,7 @@ Reflections are written using the **Situation, Task, Action, Result** framework.
 ##  Live Portfolio
 
 This portfolio is published using **GitHub Pages**.  
-🔗 [https://entle-myezo.github.io/EntleMyezoPortfolio/](https://entle-myezo.github.io/EntleMyezoPortfolio/)
+🔗 [https://entle-myezo.github.io/EntleMyezoPortfolio/](https://entle-myezo.github.io/EntleMyezoPortfolio/)](https://github.com/entle-myezo/EntleMyezoPortfolio/tree/main)
 
 ---
 
