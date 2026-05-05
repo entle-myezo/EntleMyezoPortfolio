@@ -37,7 +37,7 @@ This programme strengthened my ability to communicate technical information clea
 
 **Life Skills Course** – MRP Foundation Jumpstart  
 *Certificate of Excellence*
-Life_Skills_completion_certificate (2).pdf
+[Life_Skills_completion_certificate (2).pdf](https://github.com/entle-myezo/EntleMyezoPortfolio/blob/main/Life_Skills_completion_certificate%20(2).pdf)
 
 **Skills developed:**
 - Workplace communication and professional behaviour
