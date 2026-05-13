@@ -60,7 +60,7 @@ This portfolio is published using **GitHub Pages**.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 - Git & GitHub
 - Markdown (GitHub Flavored Markdown)
