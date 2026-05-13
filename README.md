@@ -23,17 +23,17 @@ https://youtu.be/49Irf23d0dU
 **Description:**  This web web app/ site allows people to explore an online food restaurant and also to place online orders and contact the store whenever required. It improves customer experience and satisfaction.
 
 
-> 🔗 More code snippets and small tools are available in my GitHub repositories.
+>  More code snippets and small tools are available in my GitHub repositories.
 
 ---
 
-## 📄 My CV (Markdown)
+## My CV (Markdown)
 
 [View my CV](./cv.md) – coded entirely in Markdown.
 
 ---
 
-## 🎤 Mock Interview Video
+## Mock Interview Video
 
 I recorded a mock interview to practice answering common IT graduate questions.  
 Click the links below to watch:
