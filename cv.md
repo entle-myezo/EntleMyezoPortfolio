@@ -2,7 +2,7 @@
 
 **Student** | Cape Peninsula University of Technology  
  071 234 5678 | 230076238@mycput.ac.za  
-🔗 [GitHub](https://github.com/entle-myezo)
+ [GitHub](https://github.com/entle-myezo)
 
 ---
 
